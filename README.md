@@ -1,2 +1,2 @@
 # Automation-Bash-Scripts
-Local Mac Bash scripts to make life easy
+Local Mac OS Bash scripts to make life easy
